@@ -22,7 +22,7 @@ This project is a simple digital clock implemented using Python and the Tkinter 
 #Installation
 --------------
 1.Clone the repository:
-git clone https://github.com/yourusername/digital-clock-python.git
+git clone https://github.com/Barish24/Digitalclock.git
 cd digital-clock-python
 
 2.Run the application:
